@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩經疏義會通
-#+DATE: 2015-09-23 09:36:47
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:05:25.892151
+#+PROPERTY: ID KR1c0030
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1c0030_WYG_004-1a>¶
 欽定四庫全書¶
 　詩經疏義㑹通卷二　　　元　朱公遷　撰¶
@@ -812,4 +814,3 @@
 　¶
 　¶
 　詩經疏義㑹通卷二¶
-

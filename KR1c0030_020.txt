@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 詩經疏義會通
-#+DATE: 2015-09-23 09:36:47
-#+PROPERTY: JUAN 20
+#+DATE: 2015-08-24 22:05:26.241768
+#+PROPERTY: ID KR1c0030
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1c0030_WYG_020-1a>¶
 欽定四庫全書¶
 　詩經䟽義會通巻十八　　元　朱公遷　撰¶
@@ -1226,4 +1228,3 @@
 　　　　(志也幽王無道而平王不復中興以平王之/無志也噫此雅之所以亡而黍離之所以降)¶
 　　　　(為國/風也)¶
 　　　　　蕩之什十一篇九十二章七百六十九句¶
-
